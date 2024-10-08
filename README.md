@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I am Harinath 👋
+I was working with WellsFargo before moving to Auckland.
+I had worked with FIS, HCL and IBM.
 
-<!--
-**harikachi/harikachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I'm exploring Cloud and AI at MissionReady(NZ).
 
-Here are some ideas to get you started:
+I am interested in Java, JavaScript, Node.js, React and Cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on
+
+[@LinkedIn](LinkedIn)
+
+[@X](X)

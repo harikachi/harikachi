@@ -10,4 +10,4 @@ You can find me on
 
 [[@LinkedIn](https://www.linkedin.com/in/harinatha-kachireddy/)]
 
-[@X](X)
+[@X](https://x.com/harinatha_k)

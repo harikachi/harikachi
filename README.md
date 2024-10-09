@@ -8,6 +8,6 @@ I am interested in Java, JavaScript, Node.js, React and Cloud.
 
 You can find me on
 
-[[@LinkedIn](https://www.linkedin.com/in/harinatha-kachireddy/)]
+[@LinkedIn](https://www.linkedin.com/in/harinatha-kachireddy/)
 
 [@X](https://x.com/harinatha_k)
